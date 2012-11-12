@@ -1,4 +1,1 @@
-myrepo
-======
-
-Training repo
+Мой первый репозиторий на GitHub
